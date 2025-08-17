@@ -35,13 +35,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-<!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3WVRMN3M78"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-3WVRMN3M78');
-    </script>
